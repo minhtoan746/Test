@@ -1,1 +1,1 @@
-# Test
+Hướng dẫn dùng git cơ bản
